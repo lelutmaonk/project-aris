@@ -2,6 +2,7 @@
 
 namespace Database\Seeders;
 
+use App\Models\Lapangan;
 use Illuminate\Database\Seeder;
 
 class DatabaseSeeder extends Seeder
